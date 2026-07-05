@@ -53,6 +53,12 @@
 | [[CLARIO]] | | |
 | [[OPENCLAW]] | | |
 
+## AI Agents
+
+| Agent | Role | Current Task | Reporting File |
+|---|---|---|---|
+| TBD | | | [[AGENT_REPORTS]] |
+
 ## Biggest Blockers
 
 1.
